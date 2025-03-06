@@ -35,3 +35,34 @@ For a better user experience, we recommend using SaverGuru on desktop to unlock 
 ![Screenshot from 2025-03-06 09-43-10](https://github.com/user-attachments/assets/ae7260f6-0a65-4b53-8c18-0b9adbc4832e)
 ![Screenshot from 2025-03-06 09-44-52](https://github.com/user-attachments/assets/0b96d7a7-92a0-47d2-907b-531a66e11760)
 ![Screenshot from 2025-03-06 09-45-00](https://github.com/user-attachments/assets/555644f2-3943-444d-98aa-d3904cf0eb14)
+📌 SEO & GitHub Discoverability
+
+To make SaverGuru stand out when users search for an expense tracking website or budget management tool on GitHub or Google, we’ve optimized it with relevant keywords:
+
+Expense Tracker
+
+Budget Management App
+
+Smart Expense Logger
+
+AI-powered Financial Tool
+
+Personal Finance Manager
+
+SaverGuru Expense App
+
+🔍 GitHub Search Optimization
+
+If a user searches SaverGuru or related terms on GitHub, our repository will be easily discoverable.
+👨‍💻 Contributing
+
+We welcome contributions! If you’d like to improve UI, fix bugs, or add features, feel free to submit a Pull Request. 🚀
+
+📩 Contact & Support
+
+📧 Email: 
+🐦 Twitter: https://x.com/lokatiraghu
+ 📸 instagram:https://www.instagram.com/raghuvaranlokati/
+🔗 Website: https://expensive-saver-guru.vercel.app/
+
+📌 Created by: Raghuvaran 🚀
