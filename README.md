@@ -6,7 +6,8 @@ A modern, AI-powered expense tracking platform designed to help you track, manag
 
 🌐 Live Demo
 
-🔗 Visit SaverGuru {https://expensive-saver-guru.vercel.app }
+🔗 Visit SaverGuru {https://expensive-saver-guru.vercel.app}
+ {https://expensive-saver-guru-teal.vercel.app/}
 
 🎯 Features
 
